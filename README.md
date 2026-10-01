@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zorel+Adrean+%F0%9F%91%8B;BSIT+Student+%40+CIT-U;Welcome+to+my+profile!)
 
 🔗 [My Portfolio](https://zoreladreanjava.github.io/CSIT340G6-Lab2-Java/)
+🔗 [My Portfolio](https://https://zoreladreanjava.github.io/)
 
 </div>
 
@@ -25,7 +26,7 @@
 
 <div align="center">
 
-[![my skills](https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,git,mysql,figma)](https://skillicons.dev)
+[![my skills](https://skillicons.dev/icons?i=html,css,js,c,php,java,kotlin,python,react,tailwind,git,mysql,figma)](https://skillicons.dev)
 
 </div>
 
@@ -38,6 +39,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petrovamario@gmail.com)
 [![Institutional Email](https://img.shields.io/badge/Institutional-005DAA?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:zoreladrean.java@cit.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoreladreanjava)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zoreladreanrivera9822)
 
 </div>
 
