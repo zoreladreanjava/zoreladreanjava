@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zorel+Adrean+%F0%9F%91%8B;BSIT+Student+%40+CIT-U;Welcome+to+my+profile!)
 
-🔗 [My Portfolio](https://zoreladreanjava.github.io/CSIT340G6-Lab2-Java/)
-🔗 [My Portfolio](https://https://zoreladreanjava.github.io/)
+🔗 [My First Portfolio](https://zoreladreanjava.github.io/)
+🔗 [My Second Portfolio](https://zoreladreanjava.github.io/CSIT340G6-Lab2-Java/)
 
 </div>
 
