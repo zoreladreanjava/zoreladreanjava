@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools learned in University
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📬 Contact
+### 📬 Contact me:
 
 <div align="center">
 
